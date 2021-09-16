@@ -1,0 +1,13 @@
+This is a Alcohol Concentration Detector.
+Materials :
+1. Breadboard
+2. MQ 135 Alcohol Detector
+3. 16-bit LCD display
+4. Potentiometer
+5. Alarm
+6. Bulb
+7. Cables
+Working : 
+The device is used to detect the concentration of alcohol in the vicinity of the sensor.
+According to the concentration the device shows if alcohol concentration is acceptable.
+Once the concentration exceeds the safe range the alarm and bulb switch on.
